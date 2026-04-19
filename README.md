@@ -1,7 +1,7 @@
 ### Hi there, I'm Timofey Iglakov 👋
 
 ## I'm a Python Developer!
-- 🔭 I’m currently studying at ![SPbPU](https://img.shields.io/badge/SPbPU-006747?style=flat-square&logo=bookstack&logoColor=white)
+- 🔭 I’m currently studying at **SPbPU**
 
 ### 🛠 Languages and Tools
 
@@ -22,8 +22,8 @@
 ---
 
 ### 📫 Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t1mm4te)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-iglakov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/t1mm4te)
 
 <!--
 **t1mm4te/t1mm4te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
